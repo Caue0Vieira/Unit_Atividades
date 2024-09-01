@@ -1,0 +1,10 @@
+.LogoRatazanas {
+    background-image: url(imagens/image.png); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left;
+    color: white;
+    padding: 10px;
+    justify-content: left;
+    height: 170px;
+}
